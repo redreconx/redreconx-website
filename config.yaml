@@ -1,1 +1,90 @@
+baseURL: 'https://redreconx.com'
+languageCode: 'en-us'
+title: 'RedReconX - Offensive Security Services'
+theme: 'PaperMod'
 
+params:
+  env: production
+  title: "RedReconX"
+  description: "Professional Offensive Security Services | Penetration Testing | Red Team Operations"
+  keywords: ["penetration testing", "red team", "cybersecurity", "offensive security"]
+  author: "RedReconX"
+  images: ["/images/logo.png"]
+  
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    disableHLJS: true
+    disableFingerprinting: true
+    favicon: "/images/favicon.ico"
+    favicon16x16: "/images/favicon-16x16.png"
+    favicon32x32: "/images/favicon-32x32.png"
+    apple_touch_icon: "/images/apple-touch-icon.png"
+
+  label:
+    text: "RedReconX"
+    icon: "/images/logo.png"
+    iconHeight: 35
+
+  profileMode:
+    enabled: false
+
+  homeInfoParams:
+    Title: "Welcome to RedReconX"
+    Content: "Professional Offensive Security Services | Penetration Testing | Security Assessments | Red Team Operations"
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/redreconx"
+    - name: linkedin
+      url: "https://linkedin.com/company/redreconx"
+    - name: github
+      url: "https://github.com/redreconx"
+    - name: email
+      url: "mailto:contact@redreconx.com"
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: services
+      name: Services
+      url: /services/
+      weight: 20
+    - identifier: blog
+      name: Blog
+      url: /posts/
+      weight: 30
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 40
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    codeFences: true
+    guessSyntax: true
+    lineNoStart: 1
+    lineNos: true
+    lineNumbersInTable: true
+    tabWidth: 4
