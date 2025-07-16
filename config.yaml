@@ -1,4 +1,3 @@
-```yaml
 baseURL: 'https://redreconx.com'
 languageCode: 'en-us'
 title: 'RedReconX - Offensive Security Services'
@@ -89,4 +88,4 @@ markup:
     lineNos: true
     lineNumbersInTable: true
     tabWidth: 4
-```
+
