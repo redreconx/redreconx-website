@@ -1,10 +1,3 @@
-```markdown
----
-title: "About RedReconX"
-date: 2025-01-16
-draft: false
----
-
 # About RedReconX
 
 ## Who We Are
@@ -67,8 +60,3 @@ To bridge the gap between theoretical security knowledge and real-world attack s
 **Practical Results**: Our assessments provide actionable insights that improve your security posture.
 
 **Cost-Effective**: Professional security testing without enterprise-level pricing.
-
----
-
-*Ready to secure your organization? [Contact us](/contact/) for a consultation.*
-```
