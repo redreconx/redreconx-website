@@ -1,10 +1,3 @@
-```markdown
----
-title: "Our Services"
-date: 2025-01-16
-draft: false
----
-
 # Security Services
 
 ## Penetration Testing Services
