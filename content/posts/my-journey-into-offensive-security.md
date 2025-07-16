@@ -1,12 +1,3 @@
-```markdown
----
-title: "My Journey into Offensive Security"
-date: 2025-01-16
-draft: false
-tags: ["career", "learning", "offensive security"]
-categories: ["Personal"]
----
-
 # My Journey into Offensive Security
 
 ## The Beginning
