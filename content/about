@@ -1,1 +1,6 @@
-
+Create `content/about/index.md`:
+```markdown
+---
+title: "About RedReconX"
+date: 2025-01-16
+draft: false
