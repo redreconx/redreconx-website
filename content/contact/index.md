@@ -1,10 +1,3 @@
-```markdown
----
-title: "Contact RedReconX"
-date: 2025-01-16
-draft: false
----
-
 # Get in Touch
 
 ## Ready to Secure Your Organization?
@@ -91,9 +84,3 @@ A: Yes, our methodologies align with OWASP, NIST, and other recognized security 
 **Q: Do you offer ongoing security services?**
 A: Yes, we provide quarterly assessments, continuous monitoring consultation, and retainer-based services.
 
----
-
-**Ready to take your security seriously?** 
-
-Contact us today for a free consultation and take the first step toward a more secure organization.
-```
